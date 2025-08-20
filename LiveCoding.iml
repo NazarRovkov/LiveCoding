@@ -1,0 +1,11 @@
+#  All project re reated from youtube channel: https://www.youtube.com/watch?v=qqGxKDOR2DY
+#  be sure to have the following packages installed: selenium, pytest, allure-pytest, webdriver-manager
+#  check the derictory: cd "/Users/naz/Desktop/WORK-WORK/Test py/LiveCoding"
+#  activate the virtual environment : source venv/bin/activate
+# be sure you up and run Docker Desktop
+#  create a virtual environment : python -m venv venv
+#  install the required packages : pip install -r requirements.txt  
+#  to run the tests use the command : pytest
+#  to open allure report use the command : allure serve report 
+#  to run project with docker use the command :  docker-compose up --build / docker-compose up
+#  last pause in the video 1:21:35
